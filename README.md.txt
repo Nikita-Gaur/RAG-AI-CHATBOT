@@ -128,7 +128,7 @@ This project implements a cache-based system for document retrieval and follow-u
 See PERFORMANCE_GUIDE.py for tips on optimizing the system.
 
 ## Authors
-- [Your Name Here]
+- NIKITA GAUR
 
 ## Last Updated
 - February 22, 2026
